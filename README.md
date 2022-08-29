@@ -1,4 +1,4 @@
-- 👋 Olá meu nome é kauapereira123
+- 👋 Olá meu nome é **kauapereira123**
 - 👀 Estou interesssado em programar novas linguagens.
 - 🌱 Estou aprendendo a programar recentemente a linguagem do JavaSript e Scratch
 - 
